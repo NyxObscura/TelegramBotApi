@@ -1,0 +1,50 @@
+{
+  "name": "dcaprio",
+  "version": "1.0.0",
+  "description": "Dcaprio - A Telegram and WhatsApp Bot Integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NyxObscura/TelegramBotApi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NyxObscura/TelegramBotApi/issues"
+  },
+  "homepage": "https://github.com/NyxObscura/TelegramBotApi#readme",
+  "keywords": [
+    "telegram-bot",
+    "whatsapp-bot",
+    "bot-api",
+    "baileys",
+    "telegraf",
+    "automation",
+    "chatbot",
+    "nodejs"
+  ],
+  "author": "NyxObscura",
+  "license": "MIT",
+    "dependencies": {
+        "@whiskeysockets/baileys": "github:NyxObscura/Titanic",
+        "axios": "^1.6.0",
+        "body-parser": "^1.20.3",
+         "fs": "latest",
+        "chalk": "^4.1.2",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "fs": "^0.0.1-security",
+        "moment-timezone": "latest",
+        "node-telegram-bot-api": "^0.64.0",
+        "pino": "^9.5.0",
+        "qrcode-terminal": "^0.12.0",
+        "readline-sync": "^1.4.10",
+        "@octokit/rest": "latest",
+        "crypto": "latest",
+        "telegraf": "^4.16.3",
+        "telegram": "^2.26.8",
+        "twilio": "^5.3.7",
+        "whatsapp-web.js": "^1.26.0"
+    }
+}
