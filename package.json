@@ -27,7 +27,7 @@
   "author": "NyxObscura",
   "license": "MIT",
     "dependencies": {
-        "@whiskeysockets/baileys": "github:NyxObscura/Titanic",
+        "@whiskeysockets/baileys": "github:NyxObscura/Vixxy",
         "axios": "^1.6.0",
         "body-parser": "^1.20.3",
          "fs": "latest",
